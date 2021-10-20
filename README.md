@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BNDES - Estagiário**
 
-- 🌱 I’m currently learning **Java, AWS, Android, Vault, Kubernetes**
+- 🌱 I’m currently learning **Java, AWS, Design Thinking, Android, Spring Boot**
 
 - 👯 I’m looking to collaborate on **Gama Academy (Java+AWS)**
 
