@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GitLab CI, Terraform and Ansible**
 
-- 👯 I’m looking to collaborate on **Gama Academy (Java+AWS)**
+- 👯 I’m looking to collaborate on **DevOps Culture**
 
 - 💬 Ask me about **Java, GitLab CI, Linux, Docker, Ansible, Kubernetes**
 
