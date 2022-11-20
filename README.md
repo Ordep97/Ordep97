@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Pacheco</h1>
-<h3 align="center">Systems Development student from Brazil</h3>
+<h3 align="center">DevOps Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on **Globo - DevOps Engineer**
 
